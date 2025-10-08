@@ -1,0 +1,11 @@
+For your question about "where is HTML taught?", I'd be happy to help.
+
+In our Sigma web development course, HTML (HyperText Markup Language) is a fundamental skill that's covered in multiple videos. 
+
+To start with HTML, let's go back to video number 03: "Basic Structure of an HTML Website". This is where we first introduce the basics of HTML and show you how it works, whether you know HTML or not.
+
+In this video, you'll learn about headings, paragraphs, and links - essentially, the building blocks of a website. We cover this in detail from around 28 seconds into the video.
+
+If you're interested in diving deeper into HTML, you can also check out video number 04: "Heading, Paragraphs and Links". This is where we dive deeper into the world of HTML, covering topics like semantic meaning of tags and more.
+
+In both of these videos, I'll be guiding you through the basics of HTML so that you can understand how to build websites from scratch.
