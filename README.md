@@ -60,10 +60,5 @@ python process.py
 - Use FAISS (or another vector DB) for scalable retrieval.
 - Add CLI wrapper to orchestrate the full pipeline and add logging/robust error handling.
 
-**Want me to**
-- add `requirements.txt`, or
-- implement FAISS-backed retrieval, or
-- add a CLI orchestrator and config file?
 
----
-Created to document and make the pipeline reproducible. See `process.py`, `CTT.py`, and `chunks.py` for the implementation details.
+
