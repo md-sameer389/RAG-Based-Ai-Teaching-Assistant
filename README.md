@@ -52,13 +52,7 @@ python process.py
 - Embeddings and generation calls assume the exact local API format above.
 - `whisper` is called with model `large-v2` — large GPU memory required. Use smaller models for faster runs.
 - Embeddings are stored in `embeddings.joblib` (Pandas DataFrame). Retrieval uses in-memory cosine similarity — fine for small datasets, not optimized for scale.
-- Paths and server URLs are hard-coded. No authentication or retries implemented.
-
-**Suggested Improvements**
-- Move configuration (paths, host, model names) to environment variables or a config file.
-- Add `requirements.txt` and lightweight Docker image.
-- Use FAISS (or another vector DB) for scalable retrieval.
-- Add CLI wrapper to orchestrate the full pipeline and add logging/robust error handling.
+- Paths and server URLs are hard-coded. No authentication or retries .
 
 
 
